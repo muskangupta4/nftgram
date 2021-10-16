@@ -1,0 +1,8 @@
+.login_page{
+	height: 30vh;
+	background-color: #000;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
