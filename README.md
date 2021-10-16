@@ -11,7 +11,7 @@ A Social networking web app platform for buying and selling digital assets.
 - Material UI
 
 ## Repositories
-- https://github.com/shivamnamdeo0101/nft_gram
+- https://github.com/shivamnamdeo0101/nftgram
 
 
 ## Demo
